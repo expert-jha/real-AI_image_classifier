@@ -1,0 +1,5 @@
+venv/
+image/
+Data/
+__pycache__
+real_vs_ai_model.h5
